@@ -15,6 +15,6 @@ body:
     attributes:
       label: Image URL
       description: The URL to the image you want to be uploaded here.
-      placeholder: ex. https://github.com/Alphalaneous/ModDevBranding-Images/blob/main/Images/Alphalaneous.png
+      placeholder: ex. https://github.com/Alphalaneous/ModDevBranding-Images/blob/main/Images/alphalaneous.png
     validations:
       required: true
