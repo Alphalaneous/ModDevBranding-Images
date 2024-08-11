@@ -6,7 +6,7 @@ body:
     id: username
     attributes:
       label: Geode username
-      description: Your Geode username to be associated with the image
+      description: Your Geode display name to be associated with the image
       placeholder: ex. Alphalaneous
     validations:
       required: true
